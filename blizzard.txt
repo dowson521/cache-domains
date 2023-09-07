@@ -10,4 +10,3 @@ edge.blizzard.top.comcast.net
 cdn.blizzard.com
 *.cdn.blizzard.com
 blizzard.gcdn.cloudn.co.kr
-blzddistkr1-a.akamaihd.net
