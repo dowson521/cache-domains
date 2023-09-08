@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name":"purple_game",
+			"description":"CDN FOR Purple Games",
+			"domain_files":["Purple.txt"]
+		}
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
